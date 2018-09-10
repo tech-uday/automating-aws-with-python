@@ -14,6 +14,7 @@ Webotron currently has the folloeing features:
 
 - List Buckets
 - List Objects of an S3 buckets.
+- Craete and setup bucket
 
 
 
